@@ -4,10 +4,10 @@
   "description": "Javascript API for SCORM 1.2 and SCORM 2004 Run-Time Implementations",
   "license": "MIT",
   "private": true,
-  "repository": "git@github.com:gabrieldoty/simplify-scorm.git",
+  "repository": "git@github.com:JognNet/simplify-scorm.git",
   "devDependencies": {
     "chai": "^4.1.2",
-    "grunt": "^1.0.2",
+    "grunt": "^1.1.0",
     "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-uglify": "^3.3.0",
     "grunt-karma": "^2.0.0",
